@@ -60,7 +60,7 @@ function Header() {
             Contact
           </li>
         </ul>
-        <div>AJayay</div>
+        <div>Dark-Theme-Logo</div>
       </div>
     </div>
   );
