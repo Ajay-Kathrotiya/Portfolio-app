@@ -4,7 +4,7 @@ import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 function Header() {
   const [toggle, setToggle] = useState(false);
   return (
-    <div className="bg-header p-3 px-12">
+    <div className="bg-header p-3 md:px-12">
       <div className="max-w-full max-auto flex justify-between items-center py-[9px]">
         <div className="md:text-3xl font-bold font-sans text-p text-lfont ">
           Ajay.Dev
@@ -60,7 +60,7 @@ function Header() {
             Contact
           </li>
         </ul>
-        <div>Dark-Theme-Logo</div>
+        <div className="text-hfont">Dark</div>
       </div>
     </div>
   );

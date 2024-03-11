@@ -7,11 +7,11 @@ export default {
   theme: {
     extend: {},
     colors : {
-      header : '#fafafa',  //heading bg
-      hfont  : '#0a0a0a',  // headinf font
+      header : '#fafaf9',  //heading bg
+      hfont  : '#44403c',  // headinf font
       hfonthover : '#1d4ed8', // hover heading font
       hbg : '#d4d4d4',   //  heading backgroung
-      lfont : '#23262a'  // logo font 
+      lfont : '#44403c'  // logo font 
 
     },
   },
