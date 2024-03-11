@@ -26,16 +26,16 @@ function Header() {
         )}
 
         <ul className="hidden md:flex gap-10 text-hfont">
-          <li className="text-2xl hover:text-hfonthover hover:underline hover:cursor-pointer">
+          <li className="text-2xl hover:text-hfonthover hover:cursor-pointer">
             Home
           </li>
-          <li className="text-2xl  hover:text-hfonthover hover:underline  hover:cursor-pointer">
+          <li className="text-2xl  hover:text-hfonthover  hover:cursor-pointer">
             About
           </li>
-          <li className="text-2xl  hover:text-hfonthover hover:underline  hover:cursor-pointer">
+          <li className="text-2xl  hover:text-hfonthover  hover:cursor-pointer">
             Projects
           </li>
-          <li className="text-2xl  hover:text-hfonthover hover:underline  hover:cursor-pointer">
+          <li className="text-2xl  hover:text-hfonthover  hover:cursor-pointer">
             Contact
           </li>
         </ul>
